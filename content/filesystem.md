@@ -36,8 +36,8 @@ they will use your account's transfer limit.
 
 Files and directories stored in the filesystem also use space in the database.
 To account for this we added an extra rule when counting space usage. All files
-under 1000 bytes will be rounded up to 1000 bytes. All directories in the
-filesystem will also use 1000 bytes of storage space. There are a couple of
+under 10000 bytes will be rounded up to 10000 bytes. All directories in the
+filesystem will also use 10000 bytes of storage space. There are a couple of
 reasons why this rule was put into place:
 
 * Storing metadata like file names and permissions costs space in the database.
@@ -47,10 +47,10 @@ reasons why this rule was put into place:
 * Accounts with lots of small files and directories slow down database
   maintenance processes.
 * Directories on other filesystems like ext4 also use storage space. Typically
-  that's 4 KiB, so 1000 bytes is still low in comparison.
+  that's 4 KiB, so 10 kB is comparable in that regard.
 
-To put the pricing into perspective: Storing 1000 bytes on pixeldrain costs
-€0,000000004. For €1 a month you can store 250 million directories.
+To put the pricing into perspective: Storing 10 kB on pixeldrain costs
+€0,00000004. For €1 a month you can store 25 million directories.
 
 ## Free download limit
 
