@@ -216,7 +216,7 @@ pixeldrain's end of the connection.
 * Pixeldrain's caching servers are overloaded. When there is a large surge in
   traffic to pixeldrain, the cache servers can overload which causes things to
   slow down. You can see the status of the caching servers on the [status
-  page](https://pixeldrian.com/status).
+  page](https://pixeldrain.com/status).
 * Pixeldrain's storage servers are overloaded. When this is the case you'll see
   that the upload hangs at 100% progress for a while. Then the file was
   successfully uploaded to the caching server, but for the upload to complete it
@@ -365,14 +365,14 @@ link, if someone accepts to be your affiliate then their active subscription
 will earn you pixeldrain credit. The affiliate program is opt-in and fully
 transparent. Users will always be notified when their affiliate account is
 updated. You can update who you are sponsoring by editing the affiliate name on
-your [user settings page](https://pixeldrian.com/user/settings).
+your [user settings page](https://pixeldrain.com/user/settings).
 
 Here is a summary of all the rules and limitations:
 
 * Each paying customer using your affiliate code will earn you €0.01 in prepaid
   credit every day. The credit is added to your account on a daily basis, as you
   can see on the [transactions
-  page](https://pixeldrian.com/user/prepaid/transactions).
+  page](https://pixeldrain.com/user/prepaid/transactions).
 * Sponsoring someone with an affiliate code does not cost you any extra money.
   The resulting fee comes out of pixeldrain's pockets.
 * You can only earn pixeldrain credit with the affiliate program. There is no

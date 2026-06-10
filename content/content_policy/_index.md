@@ -112,10 +112,9 @@ administrational burden you have caused us by violating the terms of service.
 The duration of the account/IP ban depends on the type of the violation.
 Currently these durations are as follows:
 
-* Child abuse: 10 years
+* Child abuse: permanent
 * Terrorism: 1 year
-* Copyright / DMCA: 1 week
-* All other types: 1 month
+* All other types: 3 months
 
 ## Usage of Tor and VPNs
 

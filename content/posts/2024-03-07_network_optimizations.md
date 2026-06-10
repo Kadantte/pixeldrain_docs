@@ -1,7 +1,7 @@
-+++
-title = "Fornax's Guide To Ridiculously Fast Ethernet"
-date = 2024-03-07T01:01:00+01:00
-+++
+---
+title: "Fornax's Guide To Ridiculously Fast Ethernet"
+date: 2024-03-07T01:01:00+01:00
+---
 
 ## Introduction
 
@@ -597,10 +597,10 @@ not over. I will always have this urge to get the absolute most out of my
 servers. I'm paying for the whole CPU and I'm going to use the whole CPU after
 all.
 
-Anyway, check out [Pixeldrain](https://pixeldrian.com) if you like, it's the
+Anyway, check out [Pixeldrain](https://pixeldrain.com) if you like, it's the
 fastest way to transfer files across the web. And I'm working on a [cloud
 storage](/filesystem) offering as well. It has built in rclone and FTPS support.
-Pixeldrain also has a built in [speedtest](https://pixeldrian.com/speedtest)
+Pixeldrain also has a built in [speedtest](https://pixeldrain.com/speedtest)
 which you can use to see the fruits of my labour. The source for this document
 is available in markdown format on [my
 GitHub](https://github.com/Fornaxian/pixeldrain_web/blob/master/res/include/md/100_gigabit_ethernet.md).
